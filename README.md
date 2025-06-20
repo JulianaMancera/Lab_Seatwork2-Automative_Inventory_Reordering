@@ -1,1 +1,1 @@
-# Lab_Seatwork2-Automative_Inventory_Reordering
+# Lab Seatwork 2 - Automative Inventory Reordering
